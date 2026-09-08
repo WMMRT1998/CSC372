@@ -1,0 +1,16 @@
+#grid-container {
+  border: 2px solid black;
+  padding: 20px;
+}
+.grid-item {
+border-radius: 5px;
+  background-color: purple;
+  color: white;
+  text-align: center;
+  margin: 2px;
+}
+    @media screen and (width >= 600px) {
+  body {
+    background-color: aqua;
+  }
+}
